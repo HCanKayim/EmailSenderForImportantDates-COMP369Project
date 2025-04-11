@@ -1,0 +1,154 @@
+[
+    {
+        "date": "14 January",
+        "name": "Test Günü"
+    },
+    {
+        "date": "1 January",
+        "name": "Yeni Y\u0131l"
+    },
+    {
+        "date": "10 January",
+        "name": "D\u00fcnya Gazeteciler G\u00fcn\u00fc"
+    },
+    {
+        "date": "14 February",
+        "name": "Sevgililer G\u00fcn\u00fc"
+    },
+    {
+        "date": "8 March",
+        "name": "D\u00fcnya Kad\u0131nlar G\u00fcn\u00fc"
+    },
+    {
+        "date": "14 March",
+        "name": "T\u0131p Bayram\u0131"
+    },
+    {
+        "date": "5 April",
+        "name": "Avukatlar G\u00fcn\u00fc"
+    },
+    {
+        "date": "7 April",
+        "name": "D\u00fcnya Sa\u011fl\u0131k G\u00fcn\u00fc"
+    },
+    {
+        "date": "23 April",
+        "name": "Ulusal Egemenlik ve \u00c7o\u00e7uk Bayram\u0131"
+    },
+    {
+        "date": "1 May",
+        "name": "Emek ve dayan\u0131\u015fma G\u00fcn\u00fc"
+    },
+    {
+        "date": "12 May",
+        "name": "Hem\u015fireler G\u00fcn\u00fc"
+    },
+    {
+        "date": "12 May",
+        "name": "Anneler G\u00fcn\u00fc"
+    },
+    {
+        "date": "14 May",
+        "name": "Eczac\u0131l\u0131k G\u00fcn\u00fc"
+    },
+    {
+        "date": "19 May",
+        "name": "Atat\u00fcrk'\u00fc Anma ve Gen\u00e7lik ve Spor Bayram\u0131"
+    },
+    {
+        "date": "5 June",
+        "name": "D\u00fcnya \u00c7evre G\u00fcn\u00fc"
+    },
+    {
+        "date": "6 June",
+        "name": "D\u00fcnya Diyetisyenler G\u00fcn\u00fc"
+    },
+    {
+        "date": "6 June",
+        "name": "\u00c7evre Koruma Haftas\u0131"
+    },
+    {
+        "date": "16 June",
+        "name": "Babalar G\u00fcn\u00fc"
+    },
+    {
+        "date": "1 July",
+        "name": "Kabotaj ve Deniz Bayram\u0131"
+    },
+    {
+        "date": "24 July",
+        "name": "Gazeteciler ve Bas\u0131n Bayram\u0131"
+    },
+    {
+        "date": "24 July",
+        "name": "Ramazan Bayram\u0131"
+    },
+    {
+        "date": "24 July",
+        "name": "Kurban Bayram\u0131"
+    },
+    {
+        "date": "30 August",
+        "name": "Zafer Bayram\u0131"
+    },
+    {
+        "date": "1 September",
+        "name": "D\u00fcnya Bar\u0131\u015f G\u00fcn\u00fc"
+    },
+    {
+        "date": "27 September",
+        "name": "D\u00fcnya Turizm G\u00fcn\u00fc"
+    },
+    {
+        "date": "1 October",
+        "name": "D\u00fcnya \u00c7ocuk G\u00fcn\u00fc"
+    },
+    {
+        "date": "4 October",
+        "name": "Hayvanlar\u0131 Koruma G\u00fcn\u00fc"
+    },
+    {
+        "date": "2 October",
+        "name": "D\u00fcnya Mimarl\u0131k G\u00fcn\u00fc"
+    },
+    {
+        "date": "29 October",
+        "name": "Cumhuriyet Bayram\u0131"
+    },
+    {
+        "date": "29 October",
+        "name": "K\u0131z\u0131lay Haftas\u0131"
+    },
+    {
+        "date": "29 October",
+        "name": "L\u00f6semili \u00c7ocuklar Haftas\u0131"
+    },
+    {
+        "date": "10 November",
+        "name": "Atat\u00fcrk'\u00fcn \u00d6l\u00fcm G\u00fcn\u00fc"
+    },
+    {
+        "date": "19 September",
+        "name": "Gaziler G\u00fcn\u00fc"
+    },
+    {
+        "date": "20 November",
+        "name": "\u00c7ocuk Haklar\u0131 G\u00fcn\u00fc"
+    },
+    {
+        "date": "24 November",
+        "name": "\u00d6\u011fretmenler G\u00fcn\u00fc"
+    },
+    {
+        "date": "5 December",
+        "name": "Kad\u0131n Haklar\u0131 G\u00fcn\u00fc"
+    },
+    {
+        "date": "10 December",
+        "name": "D\u00fcnya \u0130nsan Haklar\u0131 G\u00fcn\u00fc"
+    },
+    {
+        "date": "31 December",
+        "name": "Y\u0131lba\u015f\u0131"
+    }
+]
